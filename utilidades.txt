@@ -1,0 +1,3 @@
+comandos npm rodados:
+    npm init -y
+    npm install express mysql2 dotenv
